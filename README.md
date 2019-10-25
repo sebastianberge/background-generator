@@ -1,4 +1,5 @@
 # Background Generator
+Background generator lets you select two colors for a linear gradient. Test and see what linear-gradient colors that suits you and use the linear-gradient proporty in your project!
 
 ### How to get started
 1. Open the page (https://sebastianberge.github.io/background-generator/)
